@@ -19,7 +19,7 @@ We synthetically create handwriting stroke data, train a Bidirectional LSTM mode
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/varshitaparava/handwritten-text-generation.git
+   git clone https://github.com/ParavaVarshitaReddy/Handwritten-Text-Generation.git
    cd handwritten-text-generation
    ```
 
