@@ -66,22 +66,6 @@ This will:
 
 ---
 
-## 🖋️ Sample Generated Handwriting
-
-| Temperature 0.5 |
-|:---:|
-| ![Handwriting Sample](output/sample_temp_0.5.png) |
-
----
-
-## 📊 Training History Plot
-
-| Training Loss vs Validation Loss |
-|:---:|
-| ![Training History](output/training_history.png) |
-
----
-
 ## 📝 Folder Structure
 
 ```
